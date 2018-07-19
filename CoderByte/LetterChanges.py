@@ -1,3 +1,5 @@
+#Coderbyte Challenge. Change alphabets to the next alphabet, capitalize if it's a vowel.
+
 def LetterChanges(str): 
 	# code goes here
 	givenl = list(str)
