@@ -1,3 +1,7 @@
+#HackerRank Challenge. List comprehensions.
+#Given X, Y and Z representing the dimensions of a cuboid along with an integer N.
+#You have to print a list of all possible coordinates given by (i,j,k) on a 3D grid where the sum of (i+j+k) is not equal to N.
+
 if __name__ == '__main__':
     x = int(input())
     y = int(input())
