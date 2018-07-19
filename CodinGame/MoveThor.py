@@ -1,3 +1,5 @@
+#CodinGame: Power of Thor Ep1, https://www.codingame.com/training/easy/power-of-thor-episode-1/
+
 import sys, math
 lx, ly, tx, ty = [int(i) for i in input().split()]
 DX = lx - tx
