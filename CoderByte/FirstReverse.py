@@ -1,3 +1,5 @@
+#CoderByte Challenge. Reverse a given string, e.g. "Hello World" -> "dlroW olleH"
+
 def FirstReverse(str): 
 	# code goes here
 	l = list(str)
