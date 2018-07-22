@@ -1,4 +1,5 @@
-!/bin/python3
+#HackerRank. if n is odd, it's weird. if it is even and (6 >= N >= 20), it's weird.
+#!/bin/python3
 
 import math
 import os

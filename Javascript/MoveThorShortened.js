@@ -1,3 +1,4 @@
+//CodinGame. Same challenge as MoveThor.py
 //Minified in JS. Each character counts. Not meant for readability.
 
 var inputs=readline().split(' '),LX=parseInt(inputs[0]),LY=parseInt(inputs[1]),TX=parseInt(inputs[2]),TY=parseInt(inputs[3]),X=LX-TX,Y=LY-TY;
