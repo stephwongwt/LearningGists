@@ -9,14 +9,12 @@ import sys
 
 if __name__ == '__main__':
   n = int(input())
-  a = [str(input()), str(input())]
-  for i in range(0, len(a)):
-    a[i] = list(a[i])
+  for i in range(0,n):
+    a = list(str(input()))
     b,c="",""
-    for j in range (0, len(a[i])):
+    for j in range (0, len(a)):
       if (j % 2 == 0):
-        b = b + a[i][j]
+        b = b + a[j]
       else:
-        c = c + a[i][j]
+        c = c + a[j]
     print(b+" "+c)
-    
