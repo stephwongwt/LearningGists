@@ -1,4 +1,5 @@
-#HackerRank. if n is odd, it's weird. if it is even and (6 >= N >= 20), it's weird.
+#HackerRank. Python Challenge, also Day 3 of 30 day coding challenge.
+#if n is odd, it's weird. if it is even and (6 >= N >= 20), it's weird.
 #!/bin/python3
 
 import math
